@@ -5,7 +5,7 @@ Yeet stuff around. Maybe yoink it if you want.
 # Try it
 
 ```
-clj -Sdeps '{:deps {vlaaad/yeet {:git/url "https://github.com/vlaaad/yeet" :sha "TODO"}}}'
+clj -Sdeps '{:deps {vlaaad/yeet {:git/url "https://github.com/vlaaad/yeet" :sha "7bde268bbbecd1f1f276bdcffe52e724d09e368e"}}}'
 ```
 
 # Usage
